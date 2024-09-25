@@ -12,7 +12,6 @@ I'm passionate about computers, technology, and gaming. Currently, I'm pursuing 
 ## 🌐 Networking & Cybersecurity:
 - ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 - ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0073CF?style=for-the-badge&logo=security&logoColor=white)
-- ![TCP/IP](https://img.shields.io/badge/TCP/IP-0A66C2?style=for-the-badge&logo=ethernet&logoColor=white)
 - ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge&logo=firefox&logoColor=white)
 
 ## 🎮 Gaming:
